@@ -1,5 +1,6 @@
+{
 [
-  {
+ "description": {
     "id": 1,
     "title":"Aventuras al aire libre",
     "photo": "https://riverretreatlodge.com/wp-content/uploads/2023/09/Swan_Valley_Mountains.webp",
@@ -14,3 +15,4 @@
     "descripcion-parrafo2": "El entorno sereno y pintoresco se suma al ambiente y lo convierte en un deleite para todos los pescadores con mosca, ya sean principiantes o veteranos experimentados. Ser testigo del baile de una variedad de peces hace que visitar las diferentes secciones del río Esmeralda en Puerto Escondido sea una experiencia emocionante y entretenida. Ya sea un pescador experimentado o un principiante, seguramente quedará fascinado por la belleza que lo rodea."
 }
 ]
+}
